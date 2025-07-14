@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadhuvarshiniMuthusamy
-- 👀 I’m interested in Full-Stack development, Machine learning
+- 👀 I’m interested in Frontend development, Machine learning
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on DSA
 - 😄 Pronouns: Techiee
