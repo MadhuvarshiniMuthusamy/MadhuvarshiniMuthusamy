@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MadhuvarshiniMuthusamy
 - 👀 I’m interested in Frontend development, Machine learning
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on DSA
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Machine Learning 
 - 😄 Pronouns: Techiee
 - 😄 Portfolio link: https://madhuvarshini-muthusamy.lovable.app/
   
