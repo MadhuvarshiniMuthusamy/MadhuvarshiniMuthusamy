@@ -6,6 +6,7 @@
   🤝 Open to <b>collaborations in ML projects</b> <br>
   🎯 Pronouns: <b>Techiee</b> <br>
   🔗 <a href="https://madhuvarshini-muthusamy.lovable.app/">Portfolio</a> <br>
+  🔗 <a href="https://drive.google.com/file/d/1LhAXBC8vYuo2lnXbAQNmgqVlCn9w4jx7/view?usp=drive_link">Resume</a><br>
 </p>
 
 ---
